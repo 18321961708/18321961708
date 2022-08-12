@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wendy Chiang
+- 👋 Hi, I’m @Wenxuan Jiang
 - 👀 I’m interested in Programming, Machine Learning, Artificial Intelligence...
 - 🌱 I’m currently learning Quantum Computing!
 - 💞️ I’m looking to collaborate on Anything interesting which is related on IT!
